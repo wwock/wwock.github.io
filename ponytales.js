@@ -1,1 +1,1 @@
-open("data:text/html;base64,PCFkb2N0eXBlIGh0bWw+CjxodG1sPgo8aGVhZD4KPHNjcmlwdD4KY29uc29sZS5sb2cobG9jYXRpb24pOwo8L3NjcmlwdD4KPC9oZWFkPgo8Ym9keT4KPC9ib2R5Pgo8L2h0bWw+","_self");
+open("","_self");
